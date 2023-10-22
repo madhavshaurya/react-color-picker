@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/react-color-picker/static/js/main.a0d19857.js",
+    "static/js/787.89bca4e3.chunk.js": "/react-color-picker/static/js/787.89bca4e3.chunk.js",
+    "index.html": "/react-color-picker/index.html",
+    "main.a0d19857.js.map": "/react-color-picker/static/js/main.a0d19857.js.map",
+    "787.89bca4e3.chunk.js.map": "/react-color-picker/static/js/787.89bca4e3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.a0d19857.js"
+  ]
+}
